@@ -1,3 +1,6 @@
+//题目：输入一个字母，输出对应的Unicode编码
+
+package 从入门到精通课后实战;
 import java.util.Scanner;
 
 public class Second {
