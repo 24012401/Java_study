@@ -3,7 +3,7 @@
 package 从入门到精通课后实战;
 import java.util.Scanner;
 
-public class Second {
+public class Two_Second {
     public static void main(String[] args) {
         char ch;
         Scanner in = new Scanner(System.in);

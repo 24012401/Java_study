@@ -2,7 +2,7 @@
 
 package 从入门到精通课后实战;
 
-public class Third {
+public class Two_Third {
     public static void main(String[] args) {
         System.out.print("    长春轨道交通" + "\n"
                         +"====================================" + "\n"

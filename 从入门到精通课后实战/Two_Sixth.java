@@ -2,7 +2,7 @@
 
 package 从入门到精通课后实战;
 
-public class Sixth {
+public class Two_Sixth {
     public static void main(String[] args) {
         System.out.print("+-------------------------------+" + '\n'
                         +"|      欢迎登陆明日学院网站     |" + '\n'

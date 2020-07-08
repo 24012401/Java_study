@@ -2,7 +2,7 @@
 
 package 从入门到精通课后实战;
 
-public class First {
+public class Two_First {
 	public static void main(String[] args) {
         System.out.println("北环城战   一匡街    胜利公园    解放大路    工农广场    卫星广场    华庆路");
         System.out.println("|············|·········|···········|···········|···········|·········|······");

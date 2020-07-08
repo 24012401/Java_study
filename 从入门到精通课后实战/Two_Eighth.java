@@ -2,7 +2,7 @@
 
 package 从入门到精通课后实战;
 
-public class Eighth {
+public class Two_Eighth {
     public static void main(String[] args) {
         System.out.print("     福星高照     " + '\n'
                         +"万              一" + '\n'

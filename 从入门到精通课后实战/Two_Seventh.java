@@ -2,7 +2,7 @@
 
 package 从入门到精通课后实战;
 
-public class Seventh {
+public class Two_Seventh {
     public static void main(String[] args) {
         System.out.print("~~~~~~~" + '\n'
                         +"*1.阳光" + '\n'
